@@ -1,0 +1,1 @@
+Time of simulation: 20 secondsNumber of iterations: 5001therefore time step is: 0.004 secondsDelay for pressure drop: 4 secondsTime over which pressure drops: 1 secondsRatio pressure drop: 0.5kp_constant: 0.0033333333333333335kn_constant: 0.0016666666666666668

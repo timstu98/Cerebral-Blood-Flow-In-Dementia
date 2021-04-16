@@ -1,0 +1,6 @@
+first run - 
+pt_averaged_50 = baseline_pt_averaged*0.8
+no = 4000001
+max_time = 600
+alpha = 0.5
+delay = 2.99
